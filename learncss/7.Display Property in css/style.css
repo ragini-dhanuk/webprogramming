@@ -1,0 +1,38 @@
+*{
+   /* border: yellowgreen solid ;*/
+    margin: 100;
+   padding: 10;
+    box-sizing: border-box;
+}
+body{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    color: rgb(240, 118, 5);
+    display:inline-block;
+    width: 300px;
+}
+a{
+    width: 400px;
+    display: block;
+    margin: 40px;
+}
+img{
+    width: 600px;
+}
+ul{
+    list-style: none;
+    text-align: end;
+padding: 30px;
+background-color: rgb(196, 118, 118);
+color: aliceblue;
+}
+li{
+    display: inline;
+    padding: 20px;
+
+}
+li:hover{
+    color: violet;
+    cursor: pointer;
+}

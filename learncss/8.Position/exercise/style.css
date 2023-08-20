@@ -1,0 +1,25 @@
+
+
+.container{
+    
+    /* width: 600px; */
+    /* height: 600px; */
+    border: 2px solid red;
+    /* overflow: hidden; */
+    /* overflow: visible; */
+    /* overflow: scroll; */
+}
+.block1
+{
+    overflow: auto;
+}
+.p1{
+    border: 2px solid green;
+}
+.img1{
+    margin-left: 60px;
+    float:right ;
+}
+.img2{
+    float: left;
+}

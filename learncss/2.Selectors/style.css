@@ -1,0 +1,28 @@
+*{
+    font-family: fantasy;
+}
+body{
+    front-size:24px;
+    background-color: white;
+}
+/* p:hover{ 
+    font-family: monospace;
+} */
+#first{
+    color: blue;
+}
+#second>p{
+    color: rgb(9, 235, 235);
+}
+.purple{
+    color: #d10a0a;
+     font-family: monospace;
+}
+.highlight
+{
+    background-color: rgb(145, 255, 0);
+    font-weight: bolder;
+    font-style: italic;
+
+    ;
+}
